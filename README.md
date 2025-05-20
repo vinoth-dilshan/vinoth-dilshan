@@ -1,4 +1,4 @@
-# Hi there, I'm Sweety 👋
+# Hi there, I'm Vinoth 👋
 
 🚀 Aspiring MERN Stack Dev   
 🌱 Currently learning: Backend  
