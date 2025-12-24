@@ -9,5 +9,5 @@
 </p>
 
 <p align="center">
-  <img src="https://i.gifer.com/origin/4c/4c9b52a6c9c4388828bdb4034cde6d3f.gif" width="600"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Snow_css3_animation_example.svg" width="600" alt="Animated Snow" />
 </p>
