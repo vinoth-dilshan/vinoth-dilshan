@@ -11,6 +11,6 @@
 </p>
 
 <p align="center">
-  <!-- Snow Animation GIF -->
-  <img src="https://media.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif" alt="Snow Animation" width="800"/>
+  <!-- Your Snow GIF -->
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnA1ZTR5a2tjNTZrd2tpcDkwZG95dmE1dG9td3hnNmZmMXJwZXAybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mhakqcX3ChWJWlh3vS/giphy.gif" alt="Snow Animation" width="800"/>
 </p>
