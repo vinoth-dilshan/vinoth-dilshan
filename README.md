@@ -11,6 +11,5 @@
 </p>
 
 <p align="center">
-  <!-- Your Snow GIF -->
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnA1ZTR5a2tjNTZrd2tpcDkwZG95dmE1dG9td3hnNmZmMXJwZXAybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mhakqcX3ChWJWlh3vS/giphy.gif" alt="Snow Animation" width="800"/>
+  <img src="https://media.tenor.com/images/8d5c18dc6dc37991ff142841a31f9d24/tenor.gif" alt="Transparent Snow Overlay" width="800"/>
 </p>
