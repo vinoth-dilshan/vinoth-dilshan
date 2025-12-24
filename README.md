@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-  <!-- Your snow GIF -->
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHN2YzduZGNwb3F6a2d3cDB2d284OHM5ZGs3azk3eGthbmQ2c2NlaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ok6MAjOB0Rqcd0TAR6/giphy.gif" alt="Snow GIF" width="700"/>
+  <!-- Smaller snow GIF -->
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHN2YzduZGNwb3F6a2d3cDB2d284OHM5ZGs3azk3eGthbmQ2c2NlaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ok6MAjOB0Rqcd0TAR6/giphy.gif" alt="Snow GIF" width="400"/>
 </p>
 
 <p align="center">
