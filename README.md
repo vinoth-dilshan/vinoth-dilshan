@@ -11,5 +11,5 @@
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/images/8d5c18dc6dc37991ff142841a31f9d24/tenor.gif" alt="Transparent Snow Overlay" width="800"/>
+  <img src="https://media.tenor.com/images/8d5c18dc6dc37991ff142841a31f9d24/tenor.gif" alt="Snow Overlay" width="800"/>
 </p>
