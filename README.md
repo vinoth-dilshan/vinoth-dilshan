@@ -19,7 +19,3 @@
   </span>
 </p>
 
-<!-- Optional: Gradient background animation -->
-<div align="center">
-  <img src="https://images.unsplash.com/photo-1601758123927-6b576cf0df97?auto=format&fit=crop&w=800&q=80" alt="Winter Gradient" width="600" style="border-radius:15px; box-shadow:0 5px 25px rgba(0,0,0,0.3);"/>
-</div>
