@@ -10,32 +10,7 @@
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-blue" />
 </p>
 
-<!-- Snow Animation Container -->
-<div id="snow-container" style="position: fixed; top: 0; left: 0; width: 100vw; height: 100vh; pointer-events: none; z-index: 9999; overflow: hidden;"></div>
-
-<script>
-(function() {
-    var script = document.createElement('script');
-    script.src = 'https://cdn.jsdelivr.net/gh/sofiansofiii/sparticles/dist/sparticles.min.js';
-    script.onload = function() {
-        sparticles.load({
-            id: 'snow-container',
-            particles: 80,
-            color: '#ffffff',
-            connectParticles: false,
-            maxDistance: 150,
-            size: 3.5,
-            speed: 0.5,
-            spin: 0,
-            shake: 0,
-            flow: 'vertical',
-            direction: 'bottom',
-            responsive: [
-                { breakpoint: 768, settings: { particles: 50, size: 3 } },
-                { breakpoint: 480, settings: { particles: 30, size: 2.5 } }
-            ]
-        });
-    };
-    document.head.appendChild(script);
-})();
-</script>
+<p align="center">
+  <!-- Snow Animation GIF -->
+  <img src="https://media.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif" alt="Snow Animation" width="800"/>
+</p>
