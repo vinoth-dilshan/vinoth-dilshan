@@ -11,4 +11,9 @@
 </p>
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,express,idea,kubernetes,nodejs,php,postgres,py,react,ts,git,docker)](https://skillicons.dev)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,express,idea,kubernetes,nodejs,php,postgres,py,react,ts,git,docker" />
+  </a>
+</p>
