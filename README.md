@@ -10,13 +10,5 @@
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-lightgrey?style=for-the-badge" />
 </p>
 
-<p align="center">
-  <!-- Animated snow with small GIF -->
-  <img src="https://media.giphy.com/media/ok6MAjOB0Rqcd0TAR6/giphy.gif" alt="Snow Animation" width="400"/>
-</p>
 
-<p align="center">
-  <span style="font-family: 'JetBrains Mono', monospace; font-size: 22px; color:#FF6B6B;">
-    ❄️✨ Christmas Season vibes — Code safe, Stay warm! ✨❄️
-  </span>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,express,idea,kubernetes,nodejs,php,postgres,py,react,ts,git,docker)](https://skillicons.dev)
