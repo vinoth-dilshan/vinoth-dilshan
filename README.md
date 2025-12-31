@@ -17,7 +17,7 @@
     <img src="https://skillicons.dev/icons?i=js,html,css,express,kubernetes,nodejs,php,postgres,py,react,ts,git,docker,angular,linux" />
   </a>
 </p>
-![snake animation](https://github.com/VinothDilshan/VinothDilshan/blob/output/github-contribution-grid-snake.svg)
+<img src="https://komarev.com/ghpvc/?username=VinothDilshan&style=for-the-badge&color=00F0FF" />
 
 
 
