@@ -17,7 +17,10 @@
     <img src="https://skillicons.dev/icons?i=js,html,css,express,kubernetes,nodejs,php,postgres,py,react,ts,git,docker,angular,linux" />
   </a>
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=VinothDilshan&show_icons=true&theme=transparent&hide_border=true"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:0077ff&height=100&section=footer" />
+</p>
+
 
 
 
