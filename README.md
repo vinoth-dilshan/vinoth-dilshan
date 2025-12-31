@@ -18,6 +18,7 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://komarev.com/ghpvc/?username=VinothDilshan&style=for-the-badge&color=00F0FF" />
 </p>
+
 
