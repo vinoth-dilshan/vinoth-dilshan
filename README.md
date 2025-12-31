@@ -17,8 +17,7 @@
     <img src="https://skillicons.dev/icons?i=js,html,css,express,kubernetes,nodejs,php,postgres,py,react,ts,git,docker,angular,linux" />
   </a>
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VinothDilshan&style=for-the-badge&color=00F0FF" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:0077ff&height=100&section=footer"/>
+
 
 
