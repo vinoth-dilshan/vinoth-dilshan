@@ -17,9 +17,8 @@
     <img src="https://skillicons.dev/icons?i=js,html,css,express,kubernetes,nodejs,php,postgres,py,react,ts,git,docker,angular,linux" />
   </a>
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VinothDilshan&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+![snake animation](https://github.com/VinothDilshan/VinothDilshan/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
