@@ -17,7 +17,9 @@
     <img src="https://skillicons.dev/icons?i=js,html,css,express,kubernetes,nodejs,php,postgres,py,react,ts,git,docker,angular,linux" />
   </a>
 </p>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:0077ff&height=100&section=footer"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=VinothDilshan&theme=tokyonight&hide_border=true" />
+</p>
 
 
 
