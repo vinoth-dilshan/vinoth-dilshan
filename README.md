@@ -17,7 +17,9 @@
     <img src="https://skillicons.dev/icons?i=js,html,css,express,kubernetes,nodejs,php,postgres,py,react,ts,git,docker,angular,linux" />
   </a>
 </p>
-<img src="https://visitcount.itsvg.in/api?id=VinothDilshan&icon=0&color=0" />
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
+</p>
 
 
 
