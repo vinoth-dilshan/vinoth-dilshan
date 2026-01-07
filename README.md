@@ -21,10 +21,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:0077ff&height=100&section=footer" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
 
 
 
