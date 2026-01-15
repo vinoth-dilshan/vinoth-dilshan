@@ -36,15 +36,6 @@ Focused on writing clean code, understanding systems deeply, and improving every
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinoth-dilshan&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinoth-dilshan&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
----
-
 ## 🎯 Current Focus
 
 - 🔹 Becoming a **Backend / Full-Stack Developer**
