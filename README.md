@@ -28,10 +28,10 @@ Focused on writing clean code, understanding systems deeply, and improving every
 </p>
 
 **Core Areas**
-- Backend Development (Node.js, Express)
-- Databases (PostgreSQL)
-- Frontend Basics (React, TypeScript)
-- DevOps Fundamentals (Docker, Kubernetes)
+- Backend Development (Node.js, Express,java)
+- Databases (PostgreSQL,MongoDB,MySql)
+- Frontend Basics (React, TypeScript,)
+- DevOps Fundamentals (Docker, Kubernetes,linux)
 - Linux & Git
 
 ---
