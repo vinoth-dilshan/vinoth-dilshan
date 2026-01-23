@@ -24,7 +24,7 @@ Focused on writing clean code, understanding systems deeply, and improving every
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express,postgres,py,react,ts,git,docker,kubernetes,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,postgres,py,react,ts,java,git,docker,kubernetes,linux&theme=dark" />
 </p>
 
 **Core Areas**
